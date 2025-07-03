@@ -155,10 +155,10 @@ Another important thing is lightning and shadows. In my test images, the images 
 If you use this code for your publications, please cite it as:
 
     @ONLINE{cr,
-        author = "Ahmet Özlü",
+        author = RAM
         title   = "Color Recognition",
-        year   = "2018",
-        url    = "https://github.com/ahmetozlu/color_recognition"
+        year   = "2025",
+        url    = "https://github.com/ramthedevhub"
     }
 
 ## Author
